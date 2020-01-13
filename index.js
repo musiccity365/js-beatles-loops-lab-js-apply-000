@@ -21,5 +21,5 @@ function iLoveTheBeatles(num){
   var array = [];
   do{
     
-  }while()
+  }while (num < 15)
 }
